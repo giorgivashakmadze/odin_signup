@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Norse-Bold;
+    src: url(Norse-Bold.otf);
+}
+
+.divider {
+    font-family: Norse-Bold, sans-serif;
+}
+
+
+.divider {
+    display: flex;
+    height: 100vh;
+}
+
+.left{
+    background-image: url(/photo-1585202900225-6d3ac20a6962.avif);
+    flex: 35;
+    background-size: cover;
+    color: white;
+}
+
+.right{
+ flex: 65;
+ flex-direction: column;
+}
+
+.first{
+    height: 35vh;
+}
+ .second{
+    height: 30vh;
+ }
+.third{
+    height: 35vh;
+}
+
+
