@@ -104,7 +104,7 @@ body{
 
 
 .btn {
-    background-color: #3498db;
+    background-color: #15e72e;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -115,7 +115,7 @@ body{
 }
 
 .btn:hover {
-    background-color: #2e86de;
+    background-color: #1b9429;
 }
 
 .login {
